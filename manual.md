@@ -29,3 +29,5 @@ git status - комманда вызывающая блок информации
 git branch - выводит ветки
 
 branch - ветка
+
+git branch name - cоздание ветки
