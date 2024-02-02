@@ -20,19 +20,19 @@
 
 9. **git checkout master** - вернуться к актуальной версии
 
-git init - инициализация гита
+- **git init** - инициализация гита
 
-git status - комманда вызывающая блок информации по состоянию репозитория
+- **git status** - комманда вызывающая блок информации по состоянию репозитория
 
 ## Lesson 2
 
-git branch - выводит ветки
+- **git branch** - выводит ветки
 
-branch - ветка
+- **branch** - ветка
 
-git branch name - cоздание ветки
+- **git branch name** - cоздание ветки
 
-git merge - слияние веток
+- **git merge** - слияние веток
 
 Команды, объединяющие сразу две команды, для ускорения работы:
 
@@ -44,4 +44,4 @@ git branch -b = git branch + git checkout
 
 git commit -am = git add + git commit
 
-am = add + massage
+am = add + message
