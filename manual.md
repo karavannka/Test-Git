@@ -43,3 +43,13 @@ git branch -b = git branch + git checkout
 - команда **git commit -am** добавляет файл и комментарий
 
 git commit -am = git add + git commit
+
+Команды, объединяющие сразу две команды, для ускорения работы:
+
+- команда **git branch -b** создает ветку и сразу совершает на нее переход
+
+git branch -b = git branch + git checkout
+
+- команда **git commit -am** добавляет файл и комментарий
+
+git commit -am = git add + git commit
