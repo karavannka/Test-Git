@@ -43,3 +43,5 @@ git branch -b = git branch + git checkout
 - команда **git commit -am** добавляет файл и комментарий
 
 git commit -am = git add + git commit
+
+am = add + massage
